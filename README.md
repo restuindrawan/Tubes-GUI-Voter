@@ -35,4 +35,6 @@ Interface pertama yang akan muncul adalah page input code voting, yang terdiri d
      ```
      5514
      ```
-dan kemudian klik start voting
+dan kemudian klik start voting, setelah itu aplikasi akan memunculkan kandidat dari voting yang tersedia, pada kandidat kita bisa melihat detail dari kandidat dan deskripsi nya
+apabila ingin memilih maka kita hanya perlu memilih salah satu dari kandidat yang kita pilih lalu klik button vote, setelah itu hasil akan tersimpan di database.
+
