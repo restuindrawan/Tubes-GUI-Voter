@@ -24,3 +24,10 @@ MySQL
 ![image](https://user-images.githubusercontent.com/57904667/127631407-bdb3ff2e-6529-4984-86e1-d9c07e6816f9.png)
 
 ## Penggunaan
+Dalam penggunaan dari aplikasi voting ini, yang pertama adalah menjalan main.py untuk menjalankan aplikasi
+dengan command seperti berikut pada commandline atau seperti berikut, atau bisa dijalankan secara langsung
+melalui context menu dari file explorer os anda
+     ```
+     python main.py
+     ```
+
