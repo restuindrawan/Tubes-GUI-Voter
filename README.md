@@ -27,7 +27,12 @@ MySQL
 Dalam penggunaan dari aplikasi voting ini, yang pertama adalah menjalan main.py untuk menjalankan aplikasi
 dengan command seperti berikut pada commandline atau seperti berikut, atau bisa dijalankan secara langsung
 melalui context menu dari file explorer os anda
-     ```
-     python main.py
-     ```
+```
+python main.py
+```
 
+Interface pertama yang akan muncul adalah page input code voting, yang terdiri dari label, linedit, dan pushbutton, untuk melakukan voting kita tinggal memasukkan code voting misalkan
+     ```
+     5514
+     ```
+dan kemudian klik start voting
